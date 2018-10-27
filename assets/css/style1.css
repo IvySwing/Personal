@@ -1,6 +1,6 @@
 *{
     font-family: 'Krub', sans-serif;
-    color:#0B2545;
+    color:green;
     font-weight:bold;
 }
 body{
@@ -18,15 +18,15 @@ nav li{
     display:inline-block;
 }
 nav a{
-    background: #0B2545;
+    background: #D10900;
     padding:20px;
     text-decoration:none;
-    color:#1AAAE7;
+    color:#0E7B3B;
     border-radius:150px;
 }
 nav a:hover{
-    background:#1AAAE7;
-    color:#0B2545;
+    background:#0E7B3B;
+    color:#D10900;
 }
 h1{
     font-style: oblique;
@@ -44,5 +44,5 @@ p{
     font-style: italic;
     text-align: center;
     padding-top: 0px;
-    padding-left: 700px;
+    padding-left: 950px;
 }
