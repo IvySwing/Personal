@@ -1,10 +1,10 @@
 *{
     font-family: 'Krub', sans-serif;
-    color:green;
+    color:#50031E;
     font-weight:bold;
 }
 body{
-    background-color: #1B84BB;
+    background-color: #1AAAE7;
 }
 nav{
     position:absolute;
@@ -21,11 +21,11 @@ nav a{
     background: #D10900;
     padding:20px;
     text-decoration:none;
-    color:#0E7B3B;
+    color:#50031E;
     border-radius:150px;
 }
 nav a:hover{
-    background:#0E7B3B;
+    background:#50031E;
     color:#D10900;
 }
 h1{
@@ -35,8 +35,7 @@ h1{
 }
 img{
     display: inline-block;
-    padding-top: 10px;
-    padding-left: 350px;
+    float: inherit;
     height: 400px;
     width:600px;
 }
@@ -45,4 +44,5 @@ p{
     text-align: center;
     padding-top: 0px;
     padding-left: 950px;
+    padding-right: 0px;
 }
