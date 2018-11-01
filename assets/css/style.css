@@ -2,6 +2,8 @@
     font-family: 'Krub', sans-serif;
     color:#0B2545;
     font-weight:bold;
+    cursor: -webkit-grab;
+    cursor: grab;
 }
 body{
     background-color: #1B84BB;
@@ -38,10 +40,16 @@ img{
     float: left;
     height: 400px;
     width:600px;
+    box-shadow: 4px 4px 5px black;
 }
 p{
     font-style: italic;
     text-align: center;
     padding-top: 150px;
     padding-left: 700px;
+}
+footer{
+    display: inline-block;
+    float: right;
+    padding-top: 225px;
 }
